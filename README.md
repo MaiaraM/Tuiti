@@ -8,5 +8,5 @@ Developed by [Maiara Martins](https://www.linkedin.com/in/maiara-martins/) / [Ga
 
 ## API
 [Google Natural Language API](https://cloud.google.com/natural-language/?hl=pt-br).  
-[Twitter Developer](https://developer.twitter.com/en.html) 
+[Twitter Developer](https://developer.twitter.com/en.html)  
 [FireBase](https://firebase.google.com/) 
