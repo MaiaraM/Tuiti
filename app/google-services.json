@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795091431227",
+    "firebase_url": "https://fir-5a1e6.firebaseio.com",
+    "project_id": "fir-5a1e6",
+    "storage_bucket": "fir-5a1e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795091431227:android:d7b4056c7d517618",
+        "android_client_info": {
+          "package_name": "br.com.galaxyware.tuiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795091431227-1kk960884a3fbgmv1k395n4ggaeou50c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.galaxyware.tuiti",
+            "certificate_hash": "aeffebdb36b72bc77e724a2f1d86164cd542ed64"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC79tTSA5Qp3AImEDoXasFFAOLeuTm_Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

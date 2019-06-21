@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tuiti</string>
+    <string name="loading">Loading…</string>
+    <string name="label_twitter_login">Firebase + Twitter Login</string>
+    <string name="desc_twitter_login">Use a Twitter Login credential to authenticate with Firebase.</string>
+    <string name="twitter_status_fmt">Twitter User: %s</string>
+    <string name="twitter_title_text">Twitter Login</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="main_explain">Analyze Tweets with Google\'s Natural Language API</string>
+    <string name="main_find_by_user_name">Find by user name</string>
+    <string name="main_search">Search</string>
+    <string name="main_own_tweets">Or analyze your own tweets:</string>
+    <string name="main_see_my_tweets">See my Tweets!</string>
+    <string name="CONSUMER_KEY_TWITTER">mh7dh9uuMEvaOZ9UJ5SzIsRTx</string>
+    <string name="CONSUMER_SECRET_TWITTER">awGyWTQxpK3nq71RSpLROlYIqiyJivyap9VNVLbfTfiiZfguwu</string>
+    <string name="list_ops_we_did_not">Ops! we did not find anything. Did you type
+        it right?
+    </string>
+    <string name="GOOGLE_KEY">AIzaSyAB6oLpfIUnfpYlZWF84nM13b1vsvviU0s</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
